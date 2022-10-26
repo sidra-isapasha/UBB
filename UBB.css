@@ -1,0 +1,549 @@
+.img1 {
+  height: 470px;
+}
+.bg {
+  width: 100%;
+  overflow: hidden;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+  box-sizing: border-box;
+}
+.resim1 {
+  font-weight: lighter;
+  color: #cbba89;
+  text-shadow: 0 2px 1px rgb(0 0 0 / 49%);
+  font-size: 21px;
+  letter-spacing: 2px;
+  font-family: "Rajdhani", sans-serif;
+  margin-top: 230px;
+  position: absolute;
+  left: 10px;
+  margin-left: 110px;
+}
+
+.resim12 {
+  font-weight: lighter;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  text-shadow: 0 2px 1px rgb(0 0 0 / 49%);
+  color: #fff;
+  font-size: 40px;
+  margin: 254px 100px 5px;
+  letter-spacing: 1px;
+  font-family: "Barlow Condensed", sans-serif;
+  line-height: 60px;
+}
+.resim1k {
+  position: relative;
+  object-fit: fill;
+}
+
+.pp {
+  color: #bebebe;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 500;
+  overflow-x: hidden;
+  font-size: 16px;
+  padding-top: 80px;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: block;
+  letter-spacing: 1px;
+  line-height: 23px;
+}
+
+.text {
+  padding: 0;
+  margin-top: 0;
+  background-color: black;
+  width: 100%;
+  padding-bottom: 100px;
+}
+.img2 {
+  margin-bottom: 50px;
+  width: 50%;
+  height: 520px;
+  float: left;
+  object-fit: cover;
+
+  filter: brightness(0.2);
+}
+.img3 {
+  width: 50%;
+  height: 520px;
+  float: right;
+}
+
+.text2 {
+  font-weight: lighter;
+  color: #cbba89;
+  text-shadow: 0 2px 1px rgb(0 0 0 / 49%);
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-family: "Barlow Condensed", sans-serif;
+  margin: 210px 100px 5px;
+  position: absolute;
+  left: 10px;
+  top: 0px;
+  color: #907e4c;
+  line-height: 0px;
+  top: 870px;
+}
+.pp2 {
+  font-weight: lighter;
+  position: absolute;
+  text-shadow: 0 2px 1px rgb(0 0 0 / 49%);
+  font-size: 44px;
+  color: #fff;
+  margin: 254px 100px 5px;
+  letter-spacing: 1px;
+  font-family: "Barlow Condensed", sans-serif;
+  line-height: 60px;
+}
+.resim2k {
+  position: relative;
+  object-fit: fill;
+}
+.resimler {
+  background-color: black;
+
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+ 
+}
+
+.hiki {
+  text-align: left;
+  color: #cbba89;
+  height: 560px;
+  width: 600px;
+ margin-left: 22px;
+  font-size: 25px;
+  font-family: "Rajdhani", sans-serif;
+  margin-top: 20px;
+}
+.hikik {
+  height: 109px;
+  width: 1349px;
+  background-color: black;
+}
+.rsmlr{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.mg1{
+  width: 30%;
+}
+.ismlr{
+margin-left: -30px;
+margin-top: -10px;
+  padding: 30px;
+}
+.r1 {
+ 
+
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r1:hover {
+  filter: brightness(0.6);
+}
+
+.r2 {
+ 
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r2:hover {
+  filter: brightness(0.6);
+}
+
+.r3 {
+ 
+
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r3:hover {
+  filter: brightness(0.6);
+}
+
+.r4 {
+
+
+  margin-top: 10px;
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r4:hover {
+  filter: brightness(0.6);
+}
+.r5 {
+ 
+
+  margin-top: 10px;
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r5:hover {
+  filter: brightness(0.6);
+}
+.r6 {
+ 
+ 
+  margin-top: 10px;
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r6:hover {
+  filter: brightness(0.6);
+}
+.r7 {
+  
+ 
+  margin-top: 10px;
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r7:hover {
+  filter: brightness(0.6);
+}
+.r8 {
+ 
+
+  margin-top: 10px;
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r8:hover {
+  filter: brightness(0.6);
+}
+.r9 {
+
+
+  margin-top: 10px;
+  transition: 0.6s;
+  filter: brightness(0.8);
+}
+.r9:hover {
+  filter: brightness(0.6);
+}
+
+.m {
+  text-shadow: 0 2px 1px rgb(0 0 0 / 50%);
+  line-height: 1px;
+  font-family: "Barlow Condensed", sans-serif;
+  color: #bb9f51;
+  font-weight: 10px;
+  font-size: 17px;
+
+}
+.j {
+  font-weight: lighter;
+  font-size: 20px;
+  text-shadow: 0 2px 1px rgb(0 0 0 / 50%);
+  text-shadow: 0 2px 1px rgb(0 0 0 / 50%);
+  line-height: 1px;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 10px;
+  color: #fff;
+  margin-top: 30px;
+}
+
+.footer {
+  background: #141414;
+  border-top: 1px solid #6e6651;
+  height: 420px;
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.bizeulasn {
+  margin-top: 50px;
+  margin-left: 100px;
+  color: #907e4c;
+  font-size: 23px;
+  letter-spacing: 2px;
+}
+.foo1 {
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 100px;
+  margin-top: 30px;
+  font-size: 40px;
+  margin-bottom: 0;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: lighter;
+}
+.foo1 > div:nth-child(2) {
+  padding: 30px 30px;
+  font-size: 27px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #4e4e4e;
+}
+
+.cizgi {
+  margin-left: 20px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.ikon1 {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Rajdhani", sans-serif;
+  margin-right: 10px;
+}
+.ikon2 {
+  font-family: "Rajdhani", sans-serif;
+  margin-right: 10px;
+
+  text-decoration: none;
+}
+.num1 {
+  color: #fff;
+  text-decoration: none;
+}
+.num2 {
+  color: #fff;
+
+  text-decoration: none;
+}
+.foo2 {
+  padding: 40px;
+  margin-left: 50px;
+  font-size: 15px;
+  margin-top: 50px;
+  flex-direction: column-reverse;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #5d5d5d;
+  font-family: "Rajdhani", sans-serif;
+}
+.linkim {
+  color: #6e6651;
+  text-decoration: none;
+}
+@media screen and (max-width: 1379px) {
+
+  .bizeulasn {
+    margin-left: 8px;
+  }
+  .foo1 {
+    margin-left: 8px;
+  }
+  .foo2 {
+    margin-left: 8px;
+  }
+  .footer {
+    margin-right: 0;
+    height: 420px;
+    width: 90%;
+  }
+  .hikik {
+    width: 500px;
+  }
+ 
+}
+
+@media screen and (max-width: 1190px) {
+  .img2 {
+    margin-top: 200px;
+    padding: 0;
+    float: none;
+    width: 100%;
+  }
+  .pp2 {
+    margin: -309px 105px 5px;
+  }
+  .text2 {
+    top: 793px;
+  }
+  .pp {
+    position: absolute;
+
+    padding-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 90%;
+    width: 90%;
+    word-wrap: break-word;
+    font-size: 13px;
+    overflow: hidden;
+    display: block;
+  }
+  .resim1 {
+    font-size: 24px;
+    margin-left: 20px;
+  }
+  .resim12 {
+    font-size: 24px;
+    margin-left: 20px;
+  }
+ 
+  .footer {
+    height: 500px;
+   
+  }
+ 
+  .img3 {
+    margin-top: -52px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .resim1 {
+    font-size: 9px;
+    margin-left: 20px;
+  }
+  .resim12 {
+    font-size: 9px;
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .pp {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .pp2{
+    font-size: 30px;
+  }
+  .text2{
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 700px) {
+
+  .pp2{
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .text2{
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 583px) {
+.img2{
+    margin-top: 281px
+}
+.text2 {
+  top: 877px;
+}
+}
+@media screen and (max-width: 510px) {
+  .pp {
+    font-size: 7px;
+    line-height: 16px;
+  }
+}
+@media screen and (max-width: 410px) {
+  .pp {
+    font-size: 2px;
+    line-height: 13px;
+  }
+  .text2{
+    letter-spacing: 0px;
+  
+  }
+}
+@media screen and (max-width: 520px) {
+  .resim1 {
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  .resim12 {
+    font-size: 14px;
+    margin-left: 24px;
+  }
+  .text2 {
+    top: 853px;
+}
+}
+@media screen and (max-width: 1270px) {
+.mg1{
+  width: 40%;
+}
+}
+@media screen and (max-width: 847px) {
+ .r1,.r2,.r3,.r4,.r5,.r6,.r7,.r8,.r9{
+  width: 300px;
+ }
+}
+@media screen and (max-width: 680px) {
+  .mg1{
+    width: 90%;
+  }
+  .r1,.r2,.r3,.r4,.r5,.r6,.r7,.r8,.r9{
+    width: 100%;
+   }
+   .hiki{
+    width: 100px;
+   }
+   .hikik{
+    width: 200px;
+   }
+}
+@media screen and (max-width: 1105px) {
+
+  .foo1{
+    display: block;
+  }
+  .foo2{
+    display: block;
+  }
+  .footer {
+    height: 631px;
+}
+.blmm{
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+.num1{
+font-size: 16px;
+}
+.num2{
+  font-size: 16px;
+}
+.foo1 > div:nth-child(2) {
+  padding: 25px 0px;
+  
+}
+.fotu{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+}
+@media screen and (max-width:400px) {
+  .num1{
+    font-size: 11px;
+    }
+    .num2{
+      font-size: 11px;
+    }
+.ikon1{
+  width: 20px;
+}
+.ikon2{
+  width: 20px;
+}
+}
